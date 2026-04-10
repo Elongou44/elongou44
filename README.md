@@ -3,7 +3,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github)](https://github.com/Elongou44/) 
 [![Email](https://img.shields.io/badge/Email-33aaee?logo=gmail&logoColor=white)](elongou44@gmail.com)
-[![Bangumi](https://img.shields.io/badge/Bangumi-FF4589?logo=bangumi&logoColor=white)](https://bangumi.tv/user/657668)
 [![Bilibili](https://img.shields.io/badge/Bilibili-FF69B4?logo=bilibili&logoColor=white)](https://space.bilibili.com/357680437)
 
 
