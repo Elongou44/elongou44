@@ -13,11 +13,6 @@ Still a beginner in programming and need to constantly strive to move forward.
 
 - I am interested in software development, software testing, and test development.
 
-## 🏆 Honor and Awards
-
-- 📜 National Computer Rank Examination Level 2 (WPS Office)
-
-- 🥈 2024 Lan Qiao China Collegiate Programming Contest - Java Programming (National, Top 13%)
 
 ## 💡 Some ideas
 
